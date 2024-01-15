@@ -271,12 +271,6 @@ input[type="radio"]{
         padding: 4px 8px;
     }
 
-    /* .header-content{
-        position: unset;
-        transform: none;
-        padding: 150px;
-    } */
-
     .header-content h1{
         font-size: 30px;
     }
@@ -304,7 +298,6 @@ input[type="radio"]{
 
     .features .row{
         padding: 10px 0;
-
     }
 
     .faq h2{
